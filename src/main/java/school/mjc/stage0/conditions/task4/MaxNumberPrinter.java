@@ -1,7 +1,5 @@
 package school.mjc.stage0.conditions.task4;
 
-import javax.print.attribute.standard.MediaSize;
-
 public class MaxNumberPrinter {
     public static void main(String[] args) {
         printGreatest(3, 5, 14);
